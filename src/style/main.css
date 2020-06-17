@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --title-color: rgb(129, 41, 0);
+    --background-color: rgb(227, 204, 175);
+    --um-color: rgb(127, 128, 0);
+    --dois-color: rgb(169, 97, 0);
+    --tres-color: rgb(6, 115, 109);
+    --quatro-color: rgb(201, 156, 100);
+    --cinco-color: #ffffff;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background: var(--background-color);
+    -webkit-font-smoothing: antialiased;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: var(--title-color);
+    
+
+}

@@ -1,0 +1,106 @@
+#page-home{
+    height: 100vh;
+    background: url(../assets/background.png);
+    background-position: 47vw bottom;
+    
+}
+
+    #page-home .content{
+        max-width: 1100px;
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+}
+
+#page-home header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 3em;
+}   
+
+    #page-home img{
+        width: auto;
+        height: 8em;
+    }
+
+    #page-home header a{
+        display: flex;
+        color: var(--title-color);
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    #page-home header span{
+        display: flex;
+        height: auto;
+        width: 1.5em;
+        margin-right: 1em;
+    }
+
+#page-home main{
+    max-width: 35em;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+}
+
+    #page-home main h1{
+        font-size: 3.375em;
+    }
+
+    #page-home main p{
+        font-size: 1.5em;
+        line-height: 38px;
+        margin-top: 1.5em;
+        color: var(--title-color);
+    }
+
+    #page-home main a{
+        display: flex;
+        align-items: center;
+        margin-top: 2.5em;
+        width: 78%;
+        max-width: 13.5em;
+        background: var(--um-color);
+        height: 3.5em;
+        border-radius: 11.5em 31em 12em 38em;
+        text-align: center;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 1em;
+        transition: 400ms;
+    }
+
+        #page-home main a:hover{
+            background: var(--tres-color);
+            color: #ffffff;
+        }
+
+    #page-home main a span{
+        width: 4.5em;
+        height: 3.5em;
+        background-color: rgba(0, 0, 0, 0.08);
+        border-top-left-radius: 1em;
+        border-bottom-left-radius: 2.5em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        #page-home main a span::after{
+            content: "";
+            background-image: url(../assets/play-white.svg);
+            width: 1.25em;
+            height: 1.25em;
+        }
+
+    #page-home main a strong{
+        flex: 1;
+    }
+
+
