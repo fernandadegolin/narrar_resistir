@@ -32,6 +32,13 @@
     }
 }
 
+/* PAGINA INDEX */
+@media only screen and (max-width: 375px){
+    #page-home main a{
+        margin: auto;
+    }
+}
+
 
 /* PAGINA NARRAR É RESISTIR */
 @media only screen and (max-width: 375px){
