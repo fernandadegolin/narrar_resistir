@@ -59,6 +59,7 @@
         border: 0;
         border-radius: 11.5em 31em 12em 38em;
         transition: 400ms;
+        cursor: pointer;
     }
 
         #modal form button:hover{
