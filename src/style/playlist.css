@@ -40,21 +40,10 @@
         display: flex;
     }
 
-    section{
-    background-color: var(--quatro-color);
-    opacity: .9;
+.playlist{
+    background-color: white;
     margin: 5em auto;
     padding: 4em;
     border-radius: .5em;
-    max-width: 730px;
-    display: flex;
+    max-width: 60em;
 }
-
-    section .playlist{
-        flex: 1;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
-
-
