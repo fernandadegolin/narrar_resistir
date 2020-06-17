@@ -34,9 +34,14 @@
 
 /* PAGINA INDEX */
 @media only screen and (max-width: 375px){
-    #page-home main a{
-        margin: auto;
+
+    #page-home main{
+        margin-top: 2em;
     }
+
+        #page-home main a{
+            margin-bottom: 8em;
+        }
 }
 
 
