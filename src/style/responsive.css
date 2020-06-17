@@ -32,14 +32,23 @@
     }
 }
 
+
 /* PAGINA NARRAR É RESISTIR */
 @media only screen and (max-width: 375px){
     #modal .content{
-        margin: auto 1em;
+        margin: 0 1em;
+    }
+
+    #modal .header{
+        font-size: .8em;
     }
     
-    #modal .field{
-        margin: auto 1.3em;
+    #modal .field h3, p{
+        margin: auto;
+    }
+
+    #modal form button{
+        margin: 0 7em 5em 6em;
     }
 
 }
