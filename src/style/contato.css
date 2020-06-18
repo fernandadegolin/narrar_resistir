@@ -107,26 +107,30 @@
     .items-grid img{
         border-radius: 1em;
         filter: grayscale(100%);
-        transition: all 1s;
+        
     }
 
     .items-grid li img:hover{
         filter: grayscale(0%);
     }
 
+    .items-grid a{
+        text-transform: uppercase;
+        margin-top: .5em;
+        margin-bottom: .3em;
+        transition: 1s all;
+    }
 
-    .items-grid li spam{
+    .items-grid a:hover{
+        transform: scale(1.2);
+        text-decoration: var(--title-color) underline;
+        color: var(--quatro-color);
+    }
+
+    .items-grid li p{
         flex: 1;
-        color: var(--title-color);
+        text-align: justify;
         margin-top: 0.75em;
     }
 
-    .items-grid li.selected{
-        background-color: #e1faec;
-        border: 0.125em #43cb79 solid;
-    }
-
-    .items-grid li img,
-    .items-grid li spam{
-        pointer-events: none;
-    }
+    
