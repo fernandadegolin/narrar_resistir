@@ -44,26 +44,34 @@
 }
 
     .contato .contato-instrucao{
-        margin: 2em;
+        margin-top: 1em;
         text-align: center;
         color: var(--cinco-color);
         font-weight: bold;
     }
 
-        .contato .contato-instrucao span{
+       /*  .contato .contato-instrucao span{
             background: url(../assets/orla.svg) no-repeat;
             height: 3em;
             width: 3em;
             margin: 1em 2em;
             display: inline-block
-        }
+        } */
 
     .contato .contato-link{
-        
+        text-align: center;
         padding: 1em 1.5em 1em;
+        margin-top: 2em;
         margin-bottom: 3em;
     }
 
+    .contato-link img{
+        transition: 1s all;
+    }
+
+    .contato-link img:hover{
+        transform: scale(1.2);
+    }
 
 
 
