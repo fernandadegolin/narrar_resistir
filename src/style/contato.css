@@ -141,6 +141,7 @@
     footer{
         background-color: var(--quatro-color);
         margin-top: 1em;
+	padding: 2em;
         text-align: center;
         color: var(--title-color);
         font-weight: bold;
