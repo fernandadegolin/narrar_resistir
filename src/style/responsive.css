@@ -73,7 +73,13 @@
 
 /* PAGINA CONTATOS */
 @media only screen and (max-width: 375px){
-
+    .playlist-descricao-contato{
+        margin: auto;
+        padding: 2.5em;
+    }
+    
+    
+    
     .contato{
         text-align: center;
     }
@@ -82,6 +88,8 @@
         margin-top: 2em;
     }
 }
+
+
 
 /* PAGINA QUEM SOMOS */
 @media only screen and (max-width: 375px){
