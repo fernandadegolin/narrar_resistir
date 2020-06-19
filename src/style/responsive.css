@@ -6,6 +6,10 @@
         padding: 3em;
     }
 
+    .playlist-descricao{
+        margin: auto;
+    }
+
     .playlist-direita,
     .playlist-esquerda{
         display: block;
@@ -52,11 +56,12 @@
     }
 
     #modal .header{
-        font-size: .8em;
+        font-size: .7em;
     }
     
     #modal .field h3, p{
-        margin: auto;
+        margin: 0;
+        margin-bottom: -6px;
     }
 
     #modal form button{
