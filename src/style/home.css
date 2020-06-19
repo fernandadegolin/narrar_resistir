@@ -112,7 +112,7 @@
     
 /* ANIMAÇÃO */
 .bounce-in-top {
-	animation: bounce-in-top 1.2s 2 both;
+	animation: bounce-in-top 1.2s 1 both;
 } 
 
 /* ----------------------------------------------
