@@ -61,7 +61,7 @@
     .contato .contato-link{
         text-align: center;
         padding: 1em 1.5em 1em;
-        margin-top: 2em;
+        margin-top: 1em;
         margin-bottom: 3em;
     }
 
@@ -85,6 +85,8 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: .5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 
 }
 
@@ -131,6 +133,16 @@
         flex: 1;
         text-align: justify;
         margin-top: 0.75em;
+    }
+
+
+    footer{
+        background-color: var(--quatro-color);
+        margin-top: 1em;
+        text-align: center;
+        color: var(--title-color);
+        font-weight: 500;
+        line-height: 1.6em;
     }
 
     
