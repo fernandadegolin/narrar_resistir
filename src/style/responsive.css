@@ -10,10 +10,10 @@
         margin: auto;
     }
 
-    .playlist-descricao p{
+    /* .playlist-descricao p{
         background: transparent;
-    }
-
+    } */
+    
     .playlist-direita,
     .playlist-esquerda{
         display: block;
