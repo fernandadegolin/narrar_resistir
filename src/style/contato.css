@@ -96,7 +96,7 @@
         opacity: .7;
         list-style: none;
         border-radius: .5em;
-        height: 25em;
+        height: 26em;
         padding: 2em 1.5em 1em;
 
         display: flex;
@@ -141,7 +141,7 @@
     footer{
         background-color: var(--quatro-color);
         margin-top: 1em;
-	padding: 2em;
+        padding: 2em;
         text-align: center;
         color: var(--title-color);
         font-weight: bold;

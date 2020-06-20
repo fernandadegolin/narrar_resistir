@@ -51,6 +51,10 @@
         margin-top: .5em;
         font-weight: bold;
         text-align: justify;
+        background: var(--quatro-color);
+        opacity: .9;
+        border-radius: .5em;
+        padding: 1em;
     }
 
 .playlist{
