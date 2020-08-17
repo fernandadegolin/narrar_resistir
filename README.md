@@ -3,4 +3,4 @@
 
 ```
 Adiar o fim do mundo é sempre poder contar mais uma história.
-<b>Ailton Krenak<b>
+<strong>Ailton Krenak</strong>
