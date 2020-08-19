@@ -2,7 +2,9 @@
 <br>
 
 <div align="center">
-Adiar o fim do mundo é sempre poder contar mais uma história.
-```
-<strong>Ailton Krenak</strong>
+"Adiar o fim do mundo é sempre poder contar mais uma história" - <strong>Ailton Krenak</strong>
+  
+  
+  
+  
 </div>
