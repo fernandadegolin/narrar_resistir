@@ -1,4 +1,4 @@
-## Projeto Narrar é Resistir
+## Narrar é Resistir
 <br>
 
 <div align="center">
@@ -6,5 +6,7 @@
   
   
   
-  
+###### Tecnologias
+`Javascript| HTML | CSS`
+
 </div>
