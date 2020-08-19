@@ -6,9 +6,11 @@
  <br>
   <br>
   
-<p>  
-Projeto desenvolvido da iniciativa pela organização [Silo](https://silo.org.br/lab-emergencia-2020-doc/) na 2ª Edição do Laboratório de Emergência - COVID–19_RECONFIGURANDO O FUTURO que uniu pessoas que acreditam na colaboração e na inovação em um espaço virtual para levantarem juntas soluções para os complexos problemas que enfrentam suas comunidades diante dos impactos da pandemia da COVID–19.
-</p>
+<div align="right">
+Projeto desenvolvido da iniciativa pela organização [Silo](https://silo.org.br/lab-emergencia-2020-doc) na 2ª Edição do Laboratório de Emergência - COVID–19_RECONFIGURANDO O FUTURO que uniu pessoas que acreditam na colaboração e na inovação em um espaço virtual para levantarem juntas soluções para os complexos problemas que enfrentam suas comunidades diante dos impactos da pandemia da COVID–19.
+ 
+ [Front-end BR](https://github.com/frontendbr)
+</div>
 
 <br><br>
 
