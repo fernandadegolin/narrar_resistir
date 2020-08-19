@@ -9,7 +9,7 @@
 ###### Tecnologias
 `Javascript | HTML | CSS`
 
-<div class="Redes">
+<div class="Redes" align="center">
 <img margin-top:"20px" width="80" src="https://ik.imagekit.io/fernandadegolin/fe_ubZ9V1aBl.png"/>
 
 <!-- Site -->
