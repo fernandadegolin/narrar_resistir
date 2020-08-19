@@ -5,7 +5,7 @@
 "Adiar o fim do mundo é sempre poder contar mais uma história" - <strong>Ailton Krenak</strong>
 
 <div  align="center">
-  <a href="http://narrareresistir.org/">
+  <a href="http://narrareresistir.org/" target="_blank">
     <img src="https://ik.imagekit.io/fernandadegolin/Component_1_hog49WflTB.png"/>
  </a>
 </div>
