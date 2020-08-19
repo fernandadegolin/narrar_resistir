@@ -12,9 +12,10 @@
 ###### Tecnologias
 `HTML | CSS | Javascript`
 
-
+<br>
+<br>
 <div  align="center">
-  <img margin-top:"40px" width="80" src="https://ik.imagekit.io/fernandadegolin/fe_ubZ9V1aBl.png" />
+  <img width="80" src="https://ik.imagekit.io/fernandadegolin/fe_ubZ9V1aBl.png" />
   
 <!-- Site -->
 <p align="center">
