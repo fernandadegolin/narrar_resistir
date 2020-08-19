@@ -4,10 +4,12 @@
 <div align="center">
 "Adiar o fim do mundo é sempre poder contar mais uma história" - <strong>Ailton Krenak</strong>
  <br>
-  <br>
+ <br>
   
 <div align="justify">
- 
+
+### O Projeto
+
 Projeto desenvolvido da iniciativa pela organização [Silo] (https://silo.org.br/lab-emergencia-2020-doc) na 2ª Edição do Laboratório de Emergência - COVID–19_RECONFIGURANDO O FUTURO que uniu pessoas que acreditam na colaboração e na inovação em um espaço virtual para levantarem juntas soluções para os complexos problemas que enfrentam suas comunidades diante dos impactos da pandemia da COVID–19.
 
 </div>
