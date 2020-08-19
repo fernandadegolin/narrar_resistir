@@ -4,8 +4,9 @@
 <div align="center">
 "Adiar o fim do mundo é sempre poder contar mais uma história" - <strong>Ailton Krenak</strong>
 
-
+<div  align="center">
 <img src="https://ik.imagekit.io/fernandadegolin/Component_1_hog49WflTB.png"/>
+</div>
 <br>
   
 ###### Tecnologias
