@@ -17,7 +17,7 @@
 
 ### Narrar é Resistir 
 
-##### Acreditando no poder das histórias em tempos difíceis, Narrar é Resistir,pretende conectar os moradores do entorno do Córrego do Capão e outras comunidades ribeirinhas de Venda Nova, entre si, por meio de suas histórias e também falar “para fora” e dar visibilidade para as vivências e conflitos de um grupo marginalizado da capital de Minas Gerais.
+##### Acreditando no poder das histórias em tempos difíceis, Narrar é Resistir, pretende conectar os moradores do entorno do Córrego do Capão e outras comunidades ribeirinhas de Venda Nova, entre si, por meio de suas histórias e também falar “para fora” e dar visibilidade para as vivências e conflitos de um grupo marginalizado da capital de Minas Gerais.
 
 </div>
 
