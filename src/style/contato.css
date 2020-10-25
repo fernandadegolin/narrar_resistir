@@ -18,12 +18,12 @@
         height: 8em;
     }
 
-#page-contato header{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 3em;
-}   
+	#page-contato header{
+	    display: flex;
+	    align-items: center;
+	    justify-content: space-between;
+	    margin-top: 3em;
+	}   
 
     #page-contato header a{
         display: flex;
